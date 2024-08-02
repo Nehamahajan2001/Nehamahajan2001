@@ -1,4 +1,4 @@
-Descrpition abot me
+
 ![logo](https://github.com/Nehamahajan2001/Nehamahajan2001/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Neha Mahajan</h1>
 <h3 align="center">Transforming raw data into actionable insights and visualizations as Data analyst</h3>
