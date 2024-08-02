@@ -4,15 +4,16 @@
 
 <img align="right" alt="analysis" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkjzSj0uXxGMzonNmqRGHx_yx9qqCqnREW5Q&s">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehamahajan2001&label=Profile%20views&color=0e75b6&style=flat" alt="nehamahajan2001" /> </p>
 
 - 🌱 I’m currently learning **Data science course**
 
-- 💬 Ask me about **SQL, power BI**
+- 💬 Ask me about **SQL, power BI, Pandas, Numpy, Matplotlib**
 
 - 📫 How to reach me **nehamahajan1219@gmail.com**
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66abbe426e6b499ee3549a64](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66abbe426e6b499ee3549a64)
+- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66ac82fc403a9ded28d85846](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66ac82fc403a9ded28d85846)
 
 - ⚡ fact **I am always Happy😊**
 
@@ -22,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehamahajan2001&show_icons=true&locale=en&layout=compact" alt="nehamahajan2001" /></p>
 
