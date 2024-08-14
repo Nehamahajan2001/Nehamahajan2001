@@ -14,7 +14,8 @@
 
 - 📫 How to reach me **nehamahajan1219@gmail.com**
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66ac99a26e6b499ee3577cfb)
+- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66bcbb71c66b201a82791dda)
+
 
 - ⚡ fact **I am always Happy😊**
 
