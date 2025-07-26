@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehamahajan2001&label=Profile%20views&color=0e75b6&style=flat" alt="nehamahajan2001" /> </p>
 
-- 🌱 I’m currently learning **Data science course**
+- 🌱 I’m currently learning **New skill**
 
-- 💬 Ask me about **SQL, power BI, Pandas, Numpy, Matplotlib**
+- 💬 Ask me about **SQL, power BI, Pandas, Numpy, Excel, NLP, Matplotlib**
 
 - 📫 How to reach me **nehamahajan1219@gmail.com**
 
