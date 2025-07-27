@@ -8,14 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehamahajan2001&label=Profile%20views&color=0e75b6&style=flat" alt="nehamahajan2001" /> </p>
 
-- 🌱 I’m  **Data Analyst**
+- 🎓 I’m  **Data Analyst**
 
 - 💬 Ask me about **SQL, power BI, Pandas, Numpy, Excel, NLP, Matplotlib**
 
 - 📫 How to reach me **nehamahajan1219@gmail.com**
-
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66bcbb71c66b201a82791dda)
-
 
 - ⚡ fact **I am always Happy😊**
 
